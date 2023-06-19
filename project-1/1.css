@@ -1,0 +1,46 @@
+
+.navbar-brand{
+    padding-left:335px;
+   
+}
+.row{
+    display:flex;
+    flex-wrap:wrap;
+}
+
+.footer-content{
+    padding-top: 20px;
+         display :-webkit-flex;
+         display:-moz-flex;
+         display:-ms-flex;
+         display:-o-flex;
+         display:flex;
+         flex-flow: row wrap;
+         }
+         a{
+            color:aliceblue;
+
+         }
+   h3{
+     padding-left: 250px;
+     color:aliceblue
+   }
+   .footer-li{
+    padding-left:10px;
+    margin-left: 250px;
+    color:aliceblue; 
+    transition: all 0.3s ease;
+    
+}
+
+  li :hover{
+     color:aquamarine;
+     text-decoration: none;
+     padding-left: 10px;
+   
+  }
+  .footer-bottom{
+    text-align: center;
+    font-size: medium;
+    color:grey
+  }

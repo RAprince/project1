@@ -1,0 +1,21 @@
+[
+  {
+    "_id": "42722b12-1a42-48d0-8ad9-47d56232e248",
+    "colId": "history",
+    "containerId": "",
+    "name": "http://127.0.0.1:58781/9js.html",
+    "url": "http://127.0.0.1:58781/9js.html",
+    "method": "GET",
+    "sortNum": 0,
+    "created": "2023-02-13T09:39:11.421Z",
+    "modified": "2023-02-13T09:41:29.377Z",
+    "headers": [],
+    "params": [],
+    "body": {
+      "type": "json",
+      "raw": "\"name\":\"prince\"",
+      "form": []
+    },
+    "tests": []
+  }
+]
